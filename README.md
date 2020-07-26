@@ -1,6 +1,6 @@
 <div align="center">
 
-![](./gif/dog.gif)
+![](https://github.com/tizee/tizee/blob/master/gif/dog.gif)
 <h2>👋 Hi, there</h2>
 
 </div>
