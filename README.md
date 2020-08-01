@@ -17,6 +17,12 @@ What brings you here?
 #### <a href="https://tizee.github.io" target="_blank"> Tizee's Blog ✏️</a>
 
 <!-- rss-start -->
+- <a href="https://tizee.github.io/post/338b5877a9774cf519693a4c3443a5c3" target="_blank">XCode中编译sdlpal</a> - 2020-07-25
+- <a href="https://tizee.github.io/post/d8c9d63e70d1c38b25fd872439f822b6" target="_blank">Gtest安装与使用</a> - 2020-07-25
+- <a href="https://tizee.github.io/post/90b11a694f6e8f86b2d474182bcb084a" target="_blank">OSX查看动态链接库</a> - 2020-07-25
+- <a href="https://tizee.github.io/post/a9bed2b3a3e779a8840404792c199920" target="_blank">VsCode Snippet</a> - 2020-07-24
+- <a href="https://tizee.github.io/post/eb910901198bc5fbcb7c94de06a925c1" target="_blank">设计模式-decorator</a> - 2020-07-19
+
 <!-- rss-end -->
 </td>
 
@@ -24,6 +30,14 @@ What brings you here?
 
 #### 👾 Code
 <!-- wakatime-start -->
+🖖 Code long and prosper
+```text
+🦄 Go           25h56m [=========••••••••••••] 44.5%
+🥇 JavaScript   9h28m  [===••••••••••••••••••] 16.2%
+🥈 TypeScript   7h49m  [==•••••••••••••••••••] 13.4%
+🥉 Markdown     5h57m  [==•••••••••••••••••••] 10.2%
+```
+
 <!-- wakatime-end -->
 </td>
 </tr>
