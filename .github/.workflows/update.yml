@@ -1,0 +1,45 @@
+name: Update Readme
+
+on: 
+  push:
+    branches:   
+      - master
+  pull_request:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *' # every day
+
+jobs:
+  update_file:
+    name: update file
+    runs-on: ubuntu-18.04
+    env:
+      # current repo
+      GH_TOKEN: ${{ github.token }}
+      WAKATIME_APIKEY: ${{ secrets.WAKATIME_APIKEY}}
+      MDFILE: README.md
+
+    steps:
+      - name: Setup go
+        uses: actions/setup-go@v2
+        with: 
+          go-version: '^1.14.6'
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Update readme
+        run: |-
+          git clone https://github.com/tizee/tz-go-reademe.git
+          cd tz-waka-time && go build -o updater ./main.go
+          chmod +x updater
+          mv updater ../
+          cd .. && ./updater
+      - name: update repo
+        run: |-
+          git diff
+          git config --global user.email "tz-bot@noreply.fun"
+          git config --global user.name "tz-readme-bot"
+          git pull
+          git add README.md
+          git commit -m ":dart: update readme" || exit 0
+          git push
