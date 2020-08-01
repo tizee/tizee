@@ -31,7 +31,6 @@ jobs:
         run: |-
           git clone https://github.com/tizee/tz-go-readme.git
           cd tz-go-readme && go build -o updater ./main.go
-
           chmod +x updater
           mv updater ../
           cd .. && ./updater
