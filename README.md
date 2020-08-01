@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/OS-Linux%2FMacOS-orange)
 
-## Hmmm, Intresting
+## Hmmm, Interesting
 What brings you here? 
 
 <table>
