@@ -30,7 +30,7 @@ jobs:
       - name: Update readme
         run: |-
           git clone https://github.com/tizee/tz-go-readme.git
-          cd tz-waka-time && go build -o updater ./main.go
+          cd tz-go-readme && go build -o updater ./main.go
 
           chmod +x updater
           mv updater ../
