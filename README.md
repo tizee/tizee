@@ -28,7 +28,7 @@ What brings you here?
 
 <td valign="top" width="50%">
 
-#### 👾 Code
+#### 👾 Weekly Code
 <!-- wakatime-start -->
 🖖 Code long and prosper
 ```text
