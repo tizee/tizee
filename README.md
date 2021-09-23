@@ -15,7 +15,7 @@
 What brings you here? 
 
 [![](https://img.shields.io/badge/pgp-keybase-red?style=for-the-badge)](https://keybase.io/tizee)
-[![](https://img.shields.io/badge/Github%20PGP-B630%200E23%20F0D9%201CA4%200C2A%20%206CAC%20DBDC%20A222%203667%2010D2-GREEN)](https://gist.github.com/tizee/e0b20a539cefb9158e24042b51d40c74/raw/d25b162bf17be75107d991303a749419e9cd75b5/Github_public_key.asc)
+[![](https://img.shields.io/badge/Github%20PGP-B630%200E23%20F0D9%201CA4%200C2A%20%206CAC%20DBDC%20A222%203667%2010D2-GREEN?style=for-the-badge)](https://gist.github.com/tizee/e0b20a539cefb9158e24042b51d40c74/raw/d25b162bf17be75107d991303a749419e9cd75b5/Github_public_key.asc)
 
 
 <table>
