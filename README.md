@@ -40,8 +40,6 @@ What brings you here?
 <!-- wakatime-start -->
 🖖 Code long and prosper
 ```text
-🦄 Dart         5h3m   [===============••••••] 72.3%
-🥇 Go           1h56m  [=====••••••••••••••••] 27.7%
 ```
 
 <!-- wakatime-end -->
