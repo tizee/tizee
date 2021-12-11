@@ -40,6 +40,7 @@ What brings you here?
 <!-- wakatime-start -->
 🖖 Code long and prosper
 ```text
+🦄 Go           0h0m   [•••••••••••••••••••••]  0.0%
 ```
 
 <!-- wakatime-end -->
