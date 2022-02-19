@@ -40,8 +40,6 @@ What brings you here?
 <!-- wakatime-start -->
 🖖 Code long and prosper
 ```text
-🦄 Markdown     0h0m   [=====================] 100.0%
-🥇 Bash         0h0m   [•••••••••••••••••••••]  0.0%
 ```
 
 <!-- wakatime-end -->
