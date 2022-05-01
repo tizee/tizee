@@ -2,9 +2,5 @@
     {
         "type" : "wakatime",
         "source": "https://wakatime.com/api/v1/users/current/stats/last_7_days"
-    },
-    {
-        "type" : "rss",
-        "source": "https://tizee.github.io/rss.xml"
     }
 ]
