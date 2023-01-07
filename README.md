@@ -33,7 +33,7 @@ What brings you here?
 <!-- wakatime-start -->
 🖖 Code long and prosper
 ```text
-🦄 Markdown     0h7m   [=====================] 100.0%
+🦄 Markdown     0h0m   [=====================] 100.0%
 ```
 
 <!-- wakatime-end -->
