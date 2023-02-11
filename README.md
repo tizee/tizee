@@ -33,8 +33,7 @@ What brings you here?
 <!-- wakatime-start -->
 🖖 Code long and prosper
 ```text
-🦄 Python       0h12m  [====================•] 97.7%
-🥇 Other        0h0m   [•••••••••••••••••••••]  2.3%
+🦄 conf         0h0m   [=====================] 100.0%
 ```
 
 <!-- wakatime-end -->
