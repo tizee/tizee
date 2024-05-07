@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://github.com/tizee/tizee/assets/33030965/d82bcd16-5c0e-438a-ba6d-7881768e5060)
+![](https://github.com/tizee/tizee/assets/33030965/5dccb29e-fb36-4c5d-a76f-c562b050c81c)
 <h2>👋 Hi, there</h2>
 
 </div>
